@@ -10,7 +10,7 @@ Welcome to the repository for the Bangkit 2022 Capstone project - Team ID: CH2 -
 | Sultan Al Ghifari | M248BSY1262 | Machine Learning | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Irfan Hadi | M314BSY1806 | Machine Learning | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Alvin Prastyo Adi | A009BSY2897 | Mobile Development | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
-| Christofel Kevin Manopo | A288BSY2187 | Cloud Computing | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
+| Christofel Kevin Manopo | A288BSY2187 | Mobile Development | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Gigih Ramadhan | C288BSY3371 | Cloud Computing | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Alwi Rihad | C204BSY3570 | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/alwi-rihad) or [GitHub](https://github.com/alwirihad) |
 ### About this Project
