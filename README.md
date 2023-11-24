@@ -23,9 +23,9 @@ Welcome to the repository for the Bangkit 2022 Capstone project - Team ID: CH2 -
 ![System Architecture](SystemArchitecture-Image-Link)
 
 ### Repositories
-- [Mobile Development Branch](frontend-Branch-Link)
-- [Cloud Computing Branch](backend-Branch-Link)
-- [Machine Learning Branch](ML-Branch-Link)
+- [Mobile Development Branch](https://github.com/alwirihad/recido-apps/tree/backend)
+- [Cloud Computing Branch](https://github.com/alwirihad/recido-apps/tree/backend)
+- [Machine Learning Branch](https://github.com/alwirihad/recido-apps/tree/ML)
 
 ### API Documentations
 API Documentation Endpoint: [Endpoint](API-Endpoint-Link)
