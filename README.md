@@ -12,7 +12,7 @@ Welcome to the repository for the Bangkit 2022 Capstone project - Team ID: CH2 -
 | Alvin Prastyo Adi | A009BSY2897 | Mobile Development | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Christofel Kevin Manopo | A288BSY2187 | Cloud Computing | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Gigih Ramadhan | C288BSY3371 | Cloud Computing | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
-| Alwi Rihad | C204BSY3570 | Cloud Computing | [LinkedIn](www.linkedin.com/in/alwi-rihad) or [GitHub](https://github.com/alwirihad) |
+| Alwi Rihad | C204BSY3570 | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/alwi-rihad) or [GitHub](https://github.com/alwirihad) |
 ### About this Project
 **Recido** is an application for seeks to create an intuitive online application or platform with the primary objective of facilitating the exploration and preparation of traditional Indonesian dishes.
 
