@@ -23,8 +23,8 @@ Welcome to the repository for the Bangkit 2022 Capstone project - Team ID: CH2 -
 ![System Architecture](SystemArchitecture-Image-Link)
 
 ### Repositories
-- [Mobile Development Branch](Frontend-Branch-Link)
-- [Cloud Computing Branch](Backend-Branch-Link)
+- [Mobile Development Branch](frontend-Branch-Link)
+- [Cloud Computing Branch](backend-Branch-Link)
 - [Machine Learning Branch](ML-Branch-Link)
 
 ### API Documentations
