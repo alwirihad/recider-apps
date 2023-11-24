@@ -1,7 +1,8 @@
 # Recido-Apps
 ## Bangkit Capstone Project 2022
 
-Welcome to the repository for the Bangkit 2022 Capstone project - Team ID: CH2 - PS391. Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 Cloud Computing enthusiasts.
+Welcome to the repository for the Bangkit 2023 Capstone project - Team ID: CH2 - PS391. 
+Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 Cloud Computing enthusiasts.
 
 ### Our Warriors
 | Name | Bangkit-ID | Learning Path | Contact Link |
