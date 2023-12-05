@@ -15,10 +15,10 @@ Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 C
 | Gigih Ramadhan | C288BSY3371 | Cloud Computing | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Alwi Rihad | C204BSY3570 | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/alwi-rihad) or [GitHub](https://github.com/alwirihad) |
 ### About this Project
-**Recido** is an application for seeks to create an intuitive online application or platform with the primary objective of facilitating the exploration and preparation of traditional Indonesian dishes.
+**Recider** is an application for seeks to create an intuitive online application or platform with the primary objective of facilitating the exploration and preparation of traditional Indonesian dishes.
 
 ### Documentation
-- [Recido Documentation](Recido-Documentation-Link)
+- [Recider Documentation](Recider-Documentation-Link)
 
 ### System Architecture
 ![System Architecture](SystemArchitecture-Image-Link)
