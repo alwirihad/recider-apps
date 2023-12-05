@@ -11,7 +11,7 @@ Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 C
 | Sultan Al Ghifari | M248BSY1262 | Machine Learning | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Irfan Hadi | M314BSY1806 | Machine Learning | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Alvin Prastyo Adi | A009BSY2897 | Mobile Development | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
-| Christofel Kevin Manopo | A288BSY2187 | Mobile Development | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
+| Christofel Kevin Manopo | A288BSY2187 | Mobile Development | [LinkedIn](https://www.linkedin.com/in/christofel-kevin-982401251/) or [GitHub](https://github.com/christofelkev) |
 | Gigih Ramadhan | C288BSY3371 | Cloud Computing | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Alwi Rihad | C204BSY3570 | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/alwi-rihad) or [GitHub](https://github.com/alwirihad) |
 ### About this Project
@@ -24,7 +24,7 @@ Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 C
 ![System Architecture](SystemArchitecture-Image-Link)
 
 ### Repositories
-- [Mobile Development Branch](https://github.com/alwirihad/recido-apps/tree/backend)
+- [Mobile Development Branch](https://github.com/christofelkev/RECIDER)
 - [Cloud Computing Branch](https://github.com/alwirihad/recido-apps/tree/backend)
 - [Machine Learning Branch](https://github.com/alwirihad/recido-apps/tree/ML)
 
