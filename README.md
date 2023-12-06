@@ -9,7 +9,7 @@ Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 C
 | --- | --- | --- | --- |
 | Andreas Malem Sebayang | M299BSY0206 | Machine Learning | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Sultan Al Ghifari | M248BSY1262 | Machine Learning | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
-| Irfan Hadi | M314BSY1806 | Machine Learning | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
+| Irfan Hadi | M314BSY1806 | Machine Learning | [LinkedIn](https://www.linkedin.com/in/irfanhadi31) or [GitHub](https://github.com/FANFAN3126) |
 | Alvin Prastyo Adi | A009BSY2897 | Mobile Development | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Christofel Kevin Manopo | A288BSY2187 | Mobile Development | [LinkedIn](https://www.linkedin.com/in/christofel-kevin-982401251/) or [GitHub](https://github.com/christofelkev) |
 | Gigih Ramadhan | C288BSY3371 | Cloud Computing | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
@@ -26,7 +26,7 @@ Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 C
 ### Repositories
 - [Mobile Development Branch](https://github.com/christofelkev/RECIDER)
 - [Cloud Computing Branch](https://github.com/alwirihad/recido-apps/tree/backend)
-- [Machine Learning Branch](https://github.com/alwirihad/recido-apps/tree/ML)
+- [Machine Learning Branch](https://github.com/FANFAN3126/RECIDER)
 
 ### API Documentations
 API Documentation Endpoint: [Endpoint](API-Endpoint-Link)
