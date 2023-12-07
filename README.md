@@ -12,7 +12,7 @@ Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 C
 | Irfan Hadi | M314BSY1806 | Machine Learning | [LinkedIn](https://www.linkedin.com/in/irfanhadi31) or [GitHub](https://github.com/FANFAN3126) |
 | Alvin Prastyo Adi | A009BSY2897 | Mobile Development | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
 | Christofel Kevin Manopo | A288BSY2187 | Mobile Development | [LinkedIn](https://www.linkedin.com/in/christofel-kevin-982401251/) or [GitHub](https://github.com/christofelkev) |
-| Gigih Ramadhan | C288BSY3371 | Cloud Computing | [LinkedIn](LinkedIn-Link) or [GitHub](GitHub-Link) |
+| Gigih Ramadhan | C288BSY3371 | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/gigih-ramadhan-586433291/) or [GitHub](GitHub-Link) |
 | Alwi Rihad | C204BSY3570 | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/alwi-rihad) or [GitHub](https://github.com/alwirihad) |
 ### About this Project
 **Recider** is an application for seeks to create an intuitive online application or platform with the primary objective of facilitating the exploration and preparation of traditional Indonesian dishes.
