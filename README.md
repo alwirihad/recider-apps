@@ -1,4 +1,5 @@
 # Recider-Apps
+![](https://github.com/alwirihad/recider-apps/blob/main/Recider-Screenshot.png)
 ## Bangkit Capstone Project 2023
 
 Welcome to the repository for the Bangkit 2023 Capstone project - Team ID: CH2 - PS391. 
