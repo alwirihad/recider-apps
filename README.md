@@ -29,7 +29,7 @@ Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 C
 
 ### Repositories
 - [Mobile Development Branch](https://github.com/christofelkev/RECIDER)
-- [Cloud Computing Branch](https://github.com/alwirihad/Recider-Backendv1)
+- [Cloud Computing Branch](https://github.com/xsindrom1/recider-beckend/tree/master)
 - [Machine Learning Branch](https://github.com/FANFAN3126/RECIDER)
 
 ### API Documentations
