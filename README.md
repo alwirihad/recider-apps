@@ -25,7 +25,7 @@ Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 C
 - [Recider Documentation](https://github.com/xsindrom1/recider-beckend/tree/master)
 
 ### System Architecture
-![System Architecture](https://github.com/xsindrom1/Submission-Backend-Bookself/blob/master/architecture%20ricider.png)
+![](https://github.com/xsindrom1/Submission-Backend-Bookself/blob/master/architecture%20ricider.png)
 
 ### Repositories
 - [Mobile Development Branch](https://github.com/christofelkev/RECIDER)
