@@ -19,7 +19,7 @@ Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 C
 **Recider** is an application for seeks to create an intuitive online application or platform with the primary objective of facilitating the exploration and preparation of traditional Indonesian dishes.
 
 ### App Demo
-![](https://github.com/christofelkev/RECIDER/blob/master/demoappRecider.gif)
+![](https://github.com/alwirihad/recider-apps/blob/main/reciderappdemo.gif)
 
 ### Documentation
 - [Recider Documentation](Recider-Documentation-Link)
