@@ -22,10 +22,10 @@ Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 C
 ![](https://github.com/alwirihad/recider-apps/blob/main/reciderappdemo.gif)
 
 ### Documentation
-- [Recider Documentation](Recider-Documentation-Link)
+- [Recider Documentation](https://github.com/xsindrom1/recider-beckend/tree/master)
 
 ### System Architecture
-![System Architecture](SystemArchitecture-Image-Link)
+![System Architecture](https://github.com/xsindrom1/Submission-Backend-Bookself/blob/master/architecture%20ricider.png)
 
 ### Repositories
 - [Mobile Development Branch](https://github.com/christofelkev/RECIDER)
@@ -33,6 +33,6 @@ Our team is a collaboration of 3 Machine Learning, 2 Mobile Development, and 2 C
 - [Machine Learning Branch](https://github.com/FANFAN3126/RECIDER)
 
 ### API Documentations
-API Documentation Endpoint: [Endpoint](API-Endpoint-Link)
+API Documentation Endpoint: [Endpoint](https://github.com/xsindrom1/recider-beckend/tree/master)
 
 Feel free to explore our project and contribute to its development! If you have any questions or feedback, please don't hesitate to contact us through our provided links. Thank you for your interest in Recido-Apps!
